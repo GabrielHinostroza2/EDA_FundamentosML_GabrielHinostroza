@@ -16,3 +16,4 @@ Se hace un informe de un dataset en google collab, guardado en github (main) de 
 • Identificación de valores atípicos.
 
 • Reflexiones o conclusiones preliminares sobre el comportamiento de los datos.
+https://colab.research.google.com/github/GabrielHinostroza2/EDA_FundamentosML_GabrielHinostroza/blob/main/Evaluacion1.ipynb
